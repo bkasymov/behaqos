@@ -28,9 +28,7 @@ As an experienced DevOps Engineer with over three years of expertise, I speciali
 
 ## Projects
 
-- [Lem-in (C)](link-to-project): Implementation of graphs to find the best paths.
-- [Inception of things](link-to-project): Setup of Kubernetes cluster, simple applications deployment, GitLab, and ArgoCD integration for CI/CD pipeline.
-- [Webserv (C++)](link-to-project): Development of a web balancer like Nginx with multi-threading capabilities.
-- [Darkly](link-to-project): Identification of 15 types of vulnerabilities in a website, including SQL injection and JavaScript code analysis.
-
+- [Lem-in (C)](https://github.com/behaqos/lem-in): Implementation of graphs to find the best paths.
+- [Inception of things](https://github.com/behaqos/inception-of-things): Setup of Kubernetes cluster, simple applications deployment, GitLab, and ArgoCD integration for CI/CD pipeline.
+...
 Feel free to reach out for collaborations or queries!
