@@ -2,8 +2,8 @@
 
 📍 Paris, France  
 📞 +33 744 440-042  
-📧 [bq_s@outlook.com](mailto:bq_s@outlook.com)  
-🔗 [LinkedIn](https://linkedin.com/in/behaqos/) | [GitHub](https://github.com/behaqos)
+📧 [bkasymov@outlook.com](mailto:bkasymov@outlook.com)  
+🔗 [LinkedIn](https://linkedin.com/in/bkasymov/) | [GitHub](https://github.com/bkasymov)
 
 ## About Me
 As an experienced DevOps Engineer with over three years of expertise, I specialize in creating and optimizing CI/CD pipelines, demonstrating proficiency in cloud management with AWS and GCP. My expertise in automation using Terraform and Ansible is complemented by impactful contributions in establishing and enhancing CI/CD processes, significantly improving operational efficiency.
