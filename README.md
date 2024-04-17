@@ -1,4 +1,4 @@
-# Behrouz Kasymov - DevOps Engineer
+# Brian (Bekhruz) Kasymov - DevOps Engineer
 
 📍 Paris, France  
 📞 +33 744 440-042  
